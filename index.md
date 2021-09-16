@@ -36,17 +36,17 @@ Female Synthesis Voice
   <tbody>
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/VCTK/clean/p253_075.wav"></audio></td>
+            <source src="wavs/VCTK/clean/p253_188.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/VCTK/clean (mel+pwg)/p253_075.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/p253_188.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/VCTK/noisy/p253_075.wav"></audio></td>
+            <source src="wavs/VCTK/noisy/p253_188.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/VCTK/enhancement/p253_075.wav"></audio></td>
+            <source src="wavs/VCTK/enhancement/p253_188.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/VCTK/denoispeech/p253_075.wav"></audio></td>
+            <source src="wavs/VCTK/denoispeech/p253_188.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/VCTK/proposed/p253_075.wav"></audio></td>
+            <source src="wavs/VCTK/proposed/p253_188.wav"></audio></td>
     </tr>
 
     <tr>

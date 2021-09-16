@@ -1,17 +1,17 @@
-# <center>DurIAN : Duration Informed Attention Network For Multimodal Synthesis</center>
+# <center>HiFiDenoise: High-FideLity Denoising Text To Speech With Adversarial Networks</center>
 
-<center>Chengzhu Yu, Heng Lu, Na Hu, Meng Yu, Chao Weng, Kun Xu, Peng Liu, <br>Shiyin Kang, Deyi Tuo, Guangzhi Lei, Dan Su, Dong Yu</center><br>
-<center>Tencent AI Lab</center>
+<center>作者</center><br>
+<center>ZJU</center>
 
 <br>
 
-Paper link: *[https://arxiv.org/abs/1909.01700](https://arxiv.org/abs/1909.01700)*
+Paper link: 暂无
 
 <br>
 
 ## Abstract
 
-<div style="text-align: justify"> We present a generic and robust multimodal synthesis system that produces highly natural speech and facial expression simultaneously. The key component of this system is the Duration Informed Attention Network (DurIAN), an autoregressive model in which the alignments between the input text and the output acoustic features are inferred from a duration model. This is different from the end-to-end attention mechanism used, and accounts for various unavoidable artifacts, in existing end-to-end speech synthesis systems such as Tacotron. Furthermore, DurIAN can be used to generate high quality facial expression which can be synchronized with generated speech with/without parallel speech and face data. To improve the efficiency of speech generation, we also propose a multi-band parallel generation strategy on top of the WaveRNN model. The proposed Multi-band WaveRNN effectively reduces the total computational complexity from 9.8 to 3.6 GFLOPS, and is able to generate audio that is 6 times faster than real time on a single CPU core. We show that DurIAN could generate highly natural speech that is on par with current state of the art end-to-end systems, while at the same time avoid word skipping/repeating errors in those systems. Finally, a simple yet effective approach for fine-grained control of expressiveness of speech and facial expression is introduced. </div> 
+<div style="text-align: justify"> High-fidelity speech synthesis systems usually require a large amount of clean and high-quality speech data to train the model which costs a lot to gain. However, in reality, there is a mass of noisy speech data which could be gained easily, and it is a great challenge to take advantage of these data to synthesis the Hi-Fi speech without noise. Existing methods usually train synthetic systems based on speech denoised with an enhancement model or add noise information of the corresponding noisy speech to the system. These methods have a certain inhibitory effect on noise, but the quality and prosody of their synthesized speech are still far away from natural speech. In this article, we propose HiFiDenoise, a speech synthesis system with adversarial networks that can synthesize high-fidelity speech by using low-quality and noisy speech data. Specifically, 1) To tackle the difficulty of noise modeling, we introduce multi-length adversarial training in the noise condition module. 2) To handle the problem of inaccurate pitch extraction caused by noise, we remove the pitch predictor in the acoustic model and add discriminators on the mel-spectrogram generator. 3) In addition, we also apply the method to the noisy singing voice dataset. Experiments show that our model is better than the speech synthesized by previous models both on speech and singing.</div> 
 
 <br>
 

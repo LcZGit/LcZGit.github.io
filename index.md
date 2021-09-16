@@ -13,15 +13,8 @@ Paper link: 暂无
 
 <div style="text-align: justify"> High-fidelity speech synthesis systems usually require a large amount of clean and high-quality speech data to train the model which costs a lot to gain. However, in reality, there is a mass of noisy speech data which could be gained easily, and it is a great challenge to take advantage of these data to synthesis the Hi-Fi speech without noise. Existing methods usually train synthetic systems based on speech denoised with an enhancement model or add noise information of the corresponding noisy speech to the system. These methods have a certain inhibitory effect on noise, but the quality and prosody of their synthesized speech are still far away from natural speech. In this article, we propose HiFiDenoise, a speech synthesis system with adversarial networks that can synthesize high-fidelity speech by using low-quality and noisy speech data. Specifically, 1) To tackle the difficulty of noise modeling, we introduce multi-length adversarial training in the noise condition module. 2) To handle the problem of inaccurate pitch extraction caused by noise, we remove the pitch predictor in the acoustic model and add discriminators on the mel-spectrogram generator. 3) In addition, we also apply the method to the noisy singing voice dataset. Experiments show that our model is better than the speech synthesized by previous models both on speech and singing.</div> 
 
-<br>
 
-![arch](images/DurIAN_v1-7.png)
-
-<br>
-
-## Sound/Video Samples
-
-\* <sup>Note: All samples are in Mandrin Chinese.</sup>
+## Sound Samples
 
 ### 1. Speech Synthesis Speech (Sec 5.1)
 
@@ -32,64 +25,163 @@ Female Synthesis Voice
 <table align="center">
   <thead>
     <tr>
-      <th>DurIAN</th>
-      <th>Tacotron-2</th>
+      <th>clean</th>
+      <th>clean(Mel + PWG)</th>
+      <th>noisy</th>
+      <th>enhancement</th>
+      <th>baseline</th>
+      <th>proposed</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test03.npy.wav"></audio></td>
+            <source src="wavs/VCTK/clean/p253_075.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test03.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/p253_075.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/p253_075.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/p253_075.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p253_075.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p253_075.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test04.npy.wav"></audio></td>
+            <source src="wavs/VCTK/clean/"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test04.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test05.npy.wav"></audio></td>
+            <source src="wavs/VCTK/clean/"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test05.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test06.npy.wav"></audio></td>
+            <source src="wavs/VCTK/clean/"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test06.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test07.npy.wav"></audio></td>
+            <source src="wavs/VCTK/clean/"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test07.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test10.npy.wav"></audio></td>
+            <source src="wavs/VCTK/clean/"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test10.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test11.npy.wav"></audio></td>
+            <source src="wavs/VCTK/clean/"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test11.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test12.npy.wav"></audio></td>
+            <source src="wavs/VCTK/clean/"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test12.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test13.npy.wav"></audio></td>
+            <source src="wavs/VCTK/clean/"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test13.wav"></audio></td>
+            <source src="wavs/VCTK/clean (mel+pwg)/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/clean/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/clean (mel+pwg)/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/noisy/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/enhancement/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/"></audio></td>
     </tr>
   </tbody>
 </table>

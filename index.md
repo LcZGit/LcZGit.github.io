@@ -16,11 +16,9 @@ Paper link: 暂无
 
 ## Sound Samples
 
-### 1. Speech Synthesis Speech (Sec 5.1)
+### 1. Speech Synthesis
 
 <br>
-
-Female Synthesis Voice
 
 <table align="center">
   <thead>
@@ -188,236 +186,172 @@ Female Synthesis Voice
 
 <br>
 
-Male Synthesis Voice
+### 1. Speech Synthesis
 
-<table>
+<br>Singing Voice Synthesis
+
+<table align="center">
   <thead>
     <tr>
-      <th>DurIAN</th>
-      <th>Tacotron-2</th>
+      <th>clean</th>
+      <th>clean(Mel + PWG)</th>
+      <th>noisy</th>
+      <th>enhancement</th>
+      <th>baseline</th>
+      <th>proposed</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_1.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/1.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_2.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/2.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_3.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/3.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_4.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/4.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_5.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/5.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_6.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/6.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_7.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/7.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_8.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/8.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_9.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/9.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
     </tr>
+
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/mig_feifei_10.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/10.wav"></audio></td>
+            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/noisy/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/enhancement/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/denoispeech/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/DeepSinger/proposed/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
     </tr>
   </tbody>
 </table>
 
 <br>
-
-### 2. Fine-grained Style Control (Sec 5.3)
-
-<br>
-
-*"现在狂铁这经济已经冠决全场啊！"*
-
-\* <sup>Note: Generated with Griffin-lim vocoder.</sup>
-
-<table>
-  <tbody>
-    <tr>
-      <td>exciting x 0.0</td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/sample2_jidongx0.0.wav"></audio></td>
-    </tr>
-    <tr>
-      <td>exciting x 1.0</td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/sample2_jidongx1.0.wav"></audio></td>
-    </tr>
-    <tr>
-      <td>exciting x 3.0</td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/sample2_jidongx3.0.wav"></audio></td>
-    </tr>
-    <tr>
-      <td>exciting x 5.0</td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/sample2_jidongx5.0.wav"></audio></td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-*"一血九九四送出去了！"*
-
-\* <sup>Note: Generated with WaveRNN vocoder.</sup>
-
-<table>
-  <tbody>
-    <tr>
-      <td>exciting x 0.5</td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/15.pron_style1_scale0.5.mel.npy.wav"></audio></td>
-    </tr>
-    <tr>
-      <td>exciting x 1.0</td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/15.pron_style1_scale1.0.mel.npy.wav"></audio></td>
-    </tr>
-    <tr>
-      <td>exciting x 1.5</td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/15.pron_style1_scale1.5.mel.npy.wav"></audio></td>
-    </tr>
-    <tr>
-      <td>exciting x 2.0</td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/15.pron_style1_scale2.0.mel.npy.wav"></audio></td>
-    </tr>
-  </tbody>
-</table>
-
-
-<br>
-
-*Left: Changing exciting levels during live Game Commentary generation*
-
-*Right: 2006 Word Cup Jiangxiang Huang (黄健翔）commentary generation (exciting!!!)* 
-
-<center>
-<table align="center" style="width:1000px;">
-  <tbody>
-    <tr>
-      <td colspan="2" ><img src="images/style_control.png" alt="sc" width="1000" height="400"></td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr align="center">
-      <td><audio controls="" preload="auto">
-            <source src="wavs/Media211.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/Media212.wav"></audio></td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
-<br>
-
-### 3. Live Game Commentary (DurIAN + WaveRNN)
-
-<br>
-
-Male and Female
-
-<iframe width="1000" height="500" src="https://www.youtube.com/embed/ohY8Lft6gD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
----
-
-<br>
-
-Female
-
-<iframe width="1000" height="500" src="https://www.youtube.com/embed/30iXxgvvlkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
-### 4. 3D Avatar Female Host
-
-<iframe width="1000" height="500" src="https://www.youtube.com/embed/AnazWGADtnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-### 5. Emotional Control for talking head
-
-<br>
-
-**Neutral**   (DurIAN + Griffin-lim)
-
-<iframe width="500" height="200" src="https://www.youtube.com/embed/JtjV37OelXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-
-<br>
-
-**Joyful**   (DurIAN + Griffin-lim)
-
-<iframe width="500" height="200" src="https://www.youtube.com/embed/UE0g34Pdxlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-
-<br>
-
-**Angry**   (DurIAN + Griffin-lim)
-
-<iframe width="500" height="200" src="https://www.youtube.com/embed/N7X6mj-8rtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-
-<br>
-
-**Sad**   (DurIAN + Griffin-lim)
-
-<iframe width="500" height="200" src="https://www.youtube.com/embed/pdYeiMitbkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-
-<br>
-
-**Live commentary**  （DurIAN + WaveRNN）
-
-<iframe width="500" height="200" src="https://www.youtube.com/embed/PptNj5xBzHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-
-<br>
-
-**Passionate Live commentary**  （DurIAN + WaveRNN）
-
-<iframe width="500" height="200" src="https://www.youtube.com/embed/flNL8kIY-TM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-

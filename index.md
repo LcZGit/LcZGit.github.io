@@ -483,7 +483,7 @@ Paper link: 暂无
 <br>
 
 
-## Ablation Studies
+## Visualization of Extracted Noise
 <br>
 
 <table align="center">

@@ -202,7 +202,7 @@ Paper link: 暂无
   <tbody>
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0037_遇见_王琳琳_16.mp3"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0037_16.mp3"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -217,7 +217,7 @@ Paper link: 暂无
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0041_29.mp3"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
       <td><audio controls="" preload="auto">

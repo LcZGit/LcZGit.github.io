@@ -186,7 +186,8 @@ Paper link: 暂无
 
 <br>
 
-<br>Singing Voice Synthesis
+<br>
+### 2. Singing Voice Synthesis
 
 <table align="center">
   <thead>
@@ -348,6 +349,133 @@ Paper link: 暂无
             <source src="wavs/OpenSinger/denoispeech/2-6_1059_20.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_1059_20.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+## Ablation Studies
+<br>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>proposed</th>
+      <th>- NCD</th>
+      <th>- MGD</th>
+      <th>- NCD - MGD (baseline)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p253_188.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p253_188.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p253_188.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p253_188.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p253_128.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p253_128.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p253_128.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p253_128.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p253_149.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p253_149.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p253_149.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p253_149.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p253_152.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p253_152.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p253_152.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p253_152.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p253_180.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p253_180.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p253_180.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p253_180.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p254_028.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p254_028.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p254_028.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p254_028.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p254_037.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p254_037.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p254_037.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p254_037.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p254_077.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p254_077.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p254_077.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p254_077.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p254_230.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p254_230.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p254_230.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p254_230.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed/p254_314.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - noisegan/p254_314.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/proposed - melgan/p254_314.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/VCTK/denoispeech/p254_314.wav"></audio></td>
     </tr>
   </tbody>
 </table>

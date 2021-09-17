@@ -481,3 +481,51 @@ Paper link: 暂无
 </table>
 
 <br>
+
+
+## Ablation Studies
+<br>
+
+<table align="center">
+ <thead>
+    <tr>
+      <th>GT Noise</th>
+      <th>Without NCD</th>
+      <th>With NCD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/noise/2-6_0089_12G.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/noise/2-6_0089_12B.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/noise/2-6_0089_12D.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><img src="images/2-6_0089_12G.png" width="100%"/></td>
+      <td><img src="images/2-6_0089_12B.png" width="100%"/></td>
+      <td><img src="images/2-6_0089_12D.png" width="100%"/></td>
+    </tr>
+
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/noise/2-6_0157_15G.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/noise/2-6_0157_15B.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/noise/2-6_0157_15D.wav"></audio></td>
+    </tr>
+
+    <tr>
+      <td><img src="images/2-6_0157_15G.png" width="100%"/></td>
+      <td><img src="images/2-6_0157_15B.png" width="100%"/></td>
+      <td><img src="images/2-6_0157_15D.png" width="100%"/></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+

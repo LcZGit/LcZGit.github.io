@@ -186,8 +186,6 @@ Paper link: 暂无
 
 <br>
 
-### 1. Speech Synthesis
-
 <br>Singing Voice Synthesis
 
 <table align="center">
@@ -204,152 +202,152 @@ Paper link: 暂无
   <tbody>
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1011#2-6_0037_遇见_王琳琳_16.wav"></audio></td>
     </tr>
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1011#2-6_0041_我的一个道姑朋友_朱苡葳_29.wav"></audio></td>
     </tr>
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1011#2-6_0072_父亲写的散文诗_王琳琳_0.wav"></audio></td>
     </tr>
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_11.wav"></audio></td>
     </tr>
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1011#2-6_0157_岁月神偷_王琳琳_15.wav"></audio></td>
     </tr>
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1011#2-6_0588_爱笑的眼睛_王梦汐_34.wav"></audio></td>
     </tr>
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1011#2-6_0760_天黑黑_王梦汐_2.wav"></audio></td>
     </tr>
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1011#2-6_0807_一千年以后_王梦汐_21.wav"></audio></td>
     </tr>
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1022#2-6_0891_爱情转移_候青德_53.wav"></audio></td>
     </tr>
 
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/clean (mel+pwg)/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+            <source src="wavs/OpenSinger/clean (mel+pwg)/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/noisy/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+            <source src="wavs/OpenSinger/noisy/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/enhancement/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+            <source src="wavs/OpenSinger/enhancement/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/denoispeech/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+            <source src="wavs/OpenSinger/denoispeech/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/DeepSinger/proposed/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
+            <source src="wavs/OpenSinger/proposed/xiaoma#1022#2-6_1059_红玫瑰_候青德_20.wav"></audio></td>
     </tr>
   </tbody>
 </table>

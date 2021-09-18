@@ -362,12 +362,13 @@ Paper link: 暂无
   <thead>
     <tr>
       <th>proposed</th>
-      <th>- NED</th>
+      <th>- NCD</th>
       <th>- MGD</th>
-      <th>- NED - MGD (baseline)</th>
+      <th>- NCD - MGD (baseline)</th>
     </tr>
   </thead>
   <tbody>
+<!--
     <tr>
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_188.wav"></audio></td>
@@ -378,7 +379,7 @@ Paper link: 暂无
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_188.wav"></audio></td>
     </tr>
-
+-->
     <tr>
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_128.wav"></audio></td>
@@ -389,7 +390,7 @@ Paper link: 暂无
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_128.wav"></audio></td>
     </tr>
-
+<!--
     <tr>
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_149.wav"></audio></td>
@@ -411,7 +412,7 @@ Paper link: 暂无
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_152.wav"></audio></td>
     </tr>
-
+-->
     <tr>
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_180.wav"></audio></td>
@@ -422,7 +423,7 @@ Paper link: 暂无
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_180.wav"></audio></td>
     </tr>
-
+<!--
     <tr>
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_028.wav"></audio></td>
@@ -433,7 +434,7 @@ Paper link: 暂无
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_028.wav"></audio></td>
     </tr>
-
+-->
     <tr>
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_037.wav"></audio></td>
@@ -455,7 +456,7 @@ Paper link: 暂无
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_077.wav"></audio></td>
     </tr>
-
+<!--
     <tr>
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_230.wav"></audio></td>
@@ -477,6 +478,7 @@ Paper link: 暂无
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_314.wav"></audio></td>
     </tr>
+-->
   </tbody>
 </table>
 
@@ -490,8 +492,8 @@ Paper link: 暂无
  <thead>
     <tr>
       <th>GT Noise</th>
-      <th>Without NED</th>
-      <th>With NED</th>
+      <th>Without NCD</th>
+      <th>With NCD</th>
     </tr>
   </thead>
   <tbody>

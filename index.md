@@ -362,9 +362,9 @@ Paper link: 暂无
   <thead>
     <tr>
       <th>proposed</th>
-      <th>- NCD</th>
+      <th>- NED</th>
       <th>- MGD</th>
-      <th>- NCD - MGD (baseline)</th>
+      <th>- NED - MGD (baseline)</th>
     </tr>
   </thead>
   <tbody>
@@ -490,8 +490,8 @@ Paper link: 暂无
  <thead>
     <tr>
       <th>GT Noise</th>
-      <th>Without NCD</th>
-      <th>With NCD</th>
+      <th>Without NED</th>
+      <th>With NED</th>
     </tr>
   </thead>
   <tbody>

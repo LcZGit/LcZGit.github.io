@@ -3,13 +3,9 @@
 <center>作者</center><br>
 <center>ZJU</center>
 
-<br>
-
-<br>
-
 ## Abstract
 
-<div style="text-align: justify"> High-fidelity speech synthesis systems usually require a large amount of clean and high-quality speech data which costs a lot to gain. However, in reality, there is a mass of noisy speech data which could be collected easily, and it is a great challenge to take advantage of these data to synthesize the high-fidelity speech without noise. Existing methods usually train speech synthesis systems based on the speech denoised with an enhancement model or feed noise information as a condition into the system. These methods certainly have some effect on inhibiting noise, but the quality and prosody of their synthesized speech are still far away from natural speech. In this article, we propose HiFiDenoise, a speech synthesis system with adversarial networks that can synthesize high-fidelity speech by using low-quality and noisy speech data. Specifically, 1) to tackle the difficulty of noise modeling, we introduce multi-length adversarial training in the noise condition module. 2) To handle the problem of inaccurate pitch extraction caused by noise, we remove the pitch predictor in the acoustic model and add discriminators on the mel-spectrogram generator. 3) In addition, we also apply HiFiDenoise to singing voice synthesis with a noisy singing dataset. Experiments show that our model outperforms baseline by 0.36 and 0.44 in terms of MOS on speech and singing respectively.
+<div style="text-align: justify"> High-fidelity speech synthesis systems usually require a large amount of clean and high-quality speech data which costs a lot to gain. However, in reality, there is a mass of noisy speech data which could be collected easily, and it is a great challenge to take advantage of these data to synthesize the high-fidelity speech without noise. Existing methods usually train speech synthesis systems based on the speech denoised with an enhancement model or feed noise information as a condition into the system. These methods certainly have some effect on inhibiting noise, but the quality and prosody of their synthesized speech are still far away from natural speech. In this article, we propose HiFiDenoise, a speech synthesis system with adversarial networks that can synthesize high-fidelity speech by using low-quality and noisy speech data. Specifically, 1) to tackle the difficulty of noise modeling, we introduce multi-length adversarial training in the noise condition module. 2) To handle the problem of inaccurate pitch extraction caused by noise, we remove the pitch predictor in the acoustic model and add discriminators on the mel-spectrogram generator. 3) In addition, we also apply HiFiDenoise to singing voice synthesis with a noisy singing dataset. Experiments show that our model outperforms baseline by 0.36 and 0.44 in terms of MOS on speech and singing respectively. </div>
 
 ## Sound Samples
 

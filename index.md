@@ -16,8 +16,8 @@
       <th>clean</th>
       <th>clean(Mel + PWG)</th>
       <th>noisy</th>
-      <th>enhancement</th>
-      <th>baseline</th>
+      <th>enhancement-based</th>
+      <th>DenoiSpeech</th>
       <th>proposed</th>
     </tr>
   </thead>
@@ -185,8 +185,8 @@
       <th>clean</th>
       <th>clean(Mel + PWG)</th>
       <th>noisy</th>
-      <th>enhancement</th>
-      <th>baseline</th>
+      <th>enhancement-based</th>
+      <th>DenoiSpeech</th>
       <th>proposed</th>
     </tr>
   </thead>

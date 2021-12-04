@@ -174,8 +174,13 @@
     </tr>
   </tbody>
 </table>
-</div>
-</section>
+ </div>
+                <div class="align-center">
+                          <ul class="actions">
+								<li><a href="#up" class="button alt">Up</a></li>
+							</ul>
+                            </div>
+                </section>
 <br>
 
 <br>

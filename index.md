@@ -7,13 +7,8 @@
 ## Sound Samples
 
 ### 1. Speech Synthesis
-
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <link rel="stylesheet" href="assets/css/extra.css" />
 <br>
-<section id="two" class="wrapper style2 alt">
-				<div class="inner">
-<table style="width:100%">
+<table style="width:100%" max-width: 100%>
   <thead>
     <tr>
       <th style="width: 10%">clean</th>
@@ -176,8 +171,8 @@
     </tr>
   </tbody>
 </table>
- </div>
- </section>
+
+
 <br>
 
 <br>

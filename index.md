@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="assets/css/extra.css" />
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
   </head>
-  
+  <body>
 # <center>HiFiDenoise: High-FideLity Denoising Text To Speech With Adversarial Networks</center>
 
 ## Abstract
@@ -532,4 +532,4 @@
 </table>
 
 <br>
-
+</body>

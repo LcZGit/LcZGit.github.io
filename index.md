@@ -21,7 +21,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="width: 16%"><audio style="width: 50px;" controls="" preload="auto">
+      <td style="width: 16%"><audio style="width: 150px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p253_188.wav"></audio></td>
       <td style="width: 16%"><audio controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_188.wav"></audio></td>

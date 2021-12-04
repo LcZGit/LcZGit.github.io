@@ -10,7 +10,7 @@
 
 <br>
 
-<table style="width:200%">
+<table style="width:100%">
   <thead>
     <tr>
       <th style="width: 10%;">clean</th>

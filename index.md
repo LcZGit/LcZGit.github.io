@@ -9,7 +9,8 @@
 ### 1. Speech Synthesis
 
 <br>
-
+<section id="two" class="wrapper style2 alt">
+				<div class="inner">
 <table style="width:100%">
   <thead>
     <tr>
@@ -173,7 +174,8 @@
     </tr>
   </tbody>
 </table>
-
+</div>
+</section>
 <br>
 
 <br>

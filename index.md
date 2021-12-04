@@ -8,16 +8,15 @@
 
 ### 1. Speech Synthesis
 <br>
-<div class="table-wrap">
-<table>
+<table style="width: 10%">
   <thead>
     <tr>
-      <th style="width: 10%">clean</th>
-      <th style="width: 10%">clean(Mel + PWG)</th>
-      <th style="width: 10%">noisy</th>
-      <th style="width: 10%">enhancement-based</th>
-      <th style="width: 10%">DenoiSpeech</th>
-      <th style="width: 10%">proposed</th>
+      <th style="width: 10px">clean</th>
+      <th style="width: 10px">clean(Mel + PWG)</th>
+      <th style="width: 10px">noisy</th>
+      <th style="width: 10px">enhancement-based</th>
+      <th style="width: 10px">DenoiSpeech</th>
+      <th style="width: 10px">proposed</th>
     </tr>
   </thead>
   <tbody>
@@ -172,9 +171,6 @@
     </tr>
   </tbody>
 </table>
-</div>
-.table-wrap{width: 70em;max-width: 100%;}
-.table-wrap table{width:100%;}
 
 <br>
 

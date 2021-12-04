@@ -8,7 +8,7 @@
 
 ### 1. Speech Synthesis
 <br>
-<table style="width: 10%">
+<table style="width: 100%">
   <thead>
     <tr>
       <th style="width: 10px">clean</th>

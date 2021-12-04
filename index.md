@@ -25,7 +25,7 @@
             <source src="wavs/VCTK/clean/p253_188.wav"></audio></td>
       <td><audio style="width: 150px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_188.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 150px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p253_188.wav"></audio></td>
       <td><audio style="width: 150px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p253_188.wav"></audio></td>

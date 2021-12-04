@@ -1,11 +1,3 @@
-
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <link rel="stylesheet" href="assets/css/extra.css" />
-    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-
 # <center>HiFiDenoise: High-FideLity Denoising Text To Speech With Adversarial Networks</center>
 
 ## Abstract
@@ -16,6 +8,8 @@
 
 ### 1. Speech Synthesis
 
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/extra.css" />
 <br>
 <section id="two" class="wrapper style2 alt">
 				<div class="inner">

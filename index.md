@@ -13,7 +13,7 @@
 <table align="center" style="width:100%">
   <thead>
     <tr>
-      <th style="width: 16%;">clean</th>
+      <th style="width: 25%;">clean</th>
       <th style="width: 16%;">clean(Mel + PWG)</th>
       <th style="width: 16%;">noisy</th>
       <th style="width: 16%;">enhancement-based</th>

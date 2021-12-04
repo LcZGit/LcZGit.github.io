@@ -23,7 +23,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio controls>
             <source src="wavs/VCTK/clean/p253_188.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_188.wav"></audio></td>

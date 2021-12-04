@@ -13,17 +13,17 @@
 <table align="center" style="width:100%">
   <thead>
     <tr>
-      <th>clean</th>
-      <th>clean(Mel + PWG)</th>
-      <th>noisy</th>
-      <th>enhancement-based</th>
-      <th>DenoiSpeech</th>
-      <th>proposed</th>
+      <th style="width: 16%;">clean</th>
+      <th style="width: 16%;">clean(Mel + PWG)</th>
+      <th style="width: 16%;">noisy</th>
+      <th style="width: 16%;">enhancement-based</th>
+      <th style="width: 16%;">DenoiSpeech</th>
+      <th style="width: 16%;">proposed</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><audio controls>
+      <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/clean/p253_188.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_188.wav"></audio></td>

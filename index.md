@@ -14,12 +14,12 @@
 <table style="width:100%">
   <thead>
     <tr>
-      <th style="width: 10%;">clean</th>
-      <th style="width: 10%;">clean(Mel + PWG)</th>
-      <th style="width: 10%;">noisy</th>
-      <th style="width: 10%;">enhancement-based</th>
-      <th style="width: 10%;">DenoiSpeech</th>
-      <th style="width: 10%;">proposed</th>
+      <th style="width: 10%">clean</th>
+      <th style="width: 10%">clean(Mel + PWG)</th>
+      <th style="width: 10%">noisy</th>
+      <th style="width: 10%">enhancement-based</th>
+      <th style="width: 10%">DenoiSpeech</th>
+      <th style="width: 10%">proposed</th>
     </tr>
   </thead>
   <tbody>
@@ -175,12 +175,7 @@
   </tbody>
 </table>
  </div>
-                <div class="align-center">
-                          <ul class="actions">
-								<li><a href="#up" class="button alt">Up</a></li>
-							</ul>
-                            </div>
-                </section>
+ </section>
 <br>
 
 <br>

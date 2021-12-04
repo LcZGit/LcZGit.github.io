@@ -190,152 +190,152 @@
   </thead>
   <tbody>
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_0037_16.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_0037_16.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_0037_16.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_0037_16.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_0037_16.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_0037_16.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_0041_29.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_0041_29.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_0041_29.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_0041_29.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_0041_29.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_0041_29.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_0072_0.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_0072_0.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_0072_0.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_0072_0.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_0072_0.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_0072_0.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_0157_11.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_0157_11.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_0157_11.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_0157_11.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_0157_11.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_0157_11.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_0157_15.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_0157_15.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_0157_15.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_0157_15.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_0157_15.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_0157_15.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_0588_34.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_0588_34.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_0588_34.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_0588_34.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_0588_34.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_0588_34.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_0760_2.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_0760_2.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_0760_2.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_0760_2.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_0760_2.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_0760_2.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_0807_21.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_0807_21.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_0807_21.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_0807_21.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_0807_21.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_0807_21.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_0891_53.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_0891_53.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_0891_53.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_0891_53.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_0891_53.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_0891_53.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean/2-6_1059_20.mp3"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/clean (mel+pwg)/2-6_1059_20.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/noisy/2-6_1059_20.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/enhancement/2-6_1059_20.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/denoispeech/2-6_1059_20.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/OpenSinger/proposed/2-6_1059_20.wav"></audio></td>
     </tr>
   </tbody>
@@ -358,112 +358,112 @@
   <tbody>
 <!--
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_188.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p253_188.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p253_188.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_188.wav"></audio></td>
     </tr>
 -->
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_128.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p253_128.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p253_128.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_128.wav"></audio></td>
     </tr>
 <!--
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_149.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p253_149.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p253_149.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_149.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_152.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p253_152.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p253_152.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_152.wav"></audio></td>
     </tr>
 -->
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_180.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p253_180.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p253_180.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_180.wav"></audio></td>
     </tr>
 <!--
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_028.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p254_028.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p254_028.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_028.wav"></audio></td>
     </tr>
 -->
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_037.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p254_037.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p254_037.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_037.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_077.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p254_077.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p254_077.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_077.wav"></audio></td>
     </tr>
 <!--
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_230.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p254_230.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p254_230.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_230.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_314.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - noisegan/p254_314.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed - melgan/p254_314.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_314.wav"></audio></td>
     </tr>
 -->
@@ -486,11 +486,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0089_12G.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0089_12B.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0089_12D.wav"></audio></td>
     </tr>
 
@@ -501,11 +501,11 @@
     </tr>
 
     <tr>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0157_15G.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0157_15B.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td><audio style="width: 101px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0157_15D.wav"></audio></td>
     </tr>
 

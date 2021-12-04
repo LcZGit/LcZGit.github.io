@@ -11,15 +11,15 @@
 <br>
 <section id="two" class="wrapper style2 alt">
 				<div class="inner">
-<table style="width:100">
+<table style="width:100%">
   <thead>
     <tr>
-      <th style="width: 10">clean</th>
-      <th style="width: 10">clean(Mel + PWG)</th>
-      <th style="width: 10">noisy</th>
-      <th style="width: 10">enhancement-based</th>
-      <th style="width: 10">DenoiSpeech</th>
-      <th style="width: 10">proposed</th>
+      <th style="width: 10%">clean</th>
+      <th style="width: 10%">clean(Mel + PWG)</th>
+      <th style="width: 10%">noisy</th>
+      <th style="width: 10%">enhancement-based</th>
+      <th style="width: 10%">DenoiSpeech</th>
+      <th style="width: 10%">proposed</th>
     </tr>
   </thead>
   <tbody>

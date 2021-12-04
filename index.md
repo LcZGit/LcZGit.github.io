@@ -10,7 +10,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" style="width:100%>
   <thead>
     <tr>
       <th>clean</th>

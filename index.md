@@ -8,7 +8,8 @@
 
 ### 1. Speech Synthesis
 <br>
-<table style="max-width: 100%">
+<div class="table-wrap">
+<table>
   <thead>
     <tr>
       <th style="width: 10%">clean</th>
@@ -171,7 +172,7 @@
     </tr>
   </tbody>
 </table>
-
+</div>
 
 <br>
 
@@ -520,3 +521,5 @@
 
 <br>
 
+.table-wrap{width: 70em;max-width: 100%;}
+.table-wrap table{width:100%;}

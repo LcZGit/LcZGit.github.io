@@ -8,7 +8,7 @@
 
 ### 1. Speech Synthesis
 <br>
-<table style="width: 100%">
+<table style="width: 200%">
   <thead>
     <tr>
       <th style="width: 16%">clean</th>
@@ -21,152 +21,152 @@
   </thead>
   <tbody>
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p253_188.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_188.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p253_188.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p253_188.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_188.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_188.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p253_128.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_128.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p253_128.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p253_128.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_128.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_128.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p253_149.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_149.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p253_149.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p253_149.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_149.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_149.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p253_152.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_152.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p253_152.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p253_152.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_152.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_152.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p253_180.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_180.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p253_180.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p253_180.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_180.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_180.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p254_028.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p254_028.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p254_028.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p254_028.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_028.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_028.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p254_037.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p254_037.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p254_037.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p254_037.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_037.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_037.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p254_077.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p254_077.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p254_077.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p254_077.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_077.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_077.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p254_230.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p254_230.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p254_230.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p254_230.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_230.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_230.wav"></audio></td>
     </tr>
 
     <tr>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean/p254_314.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p254_314.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p254_314.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p254_314.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p254_314.wav"></audio></td>
-      <td><audio style="width: 150px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p254_314.wav"></audio></td>
     </tr>
   </tbody>

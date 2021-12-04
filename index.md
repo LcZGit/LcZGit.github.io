@@ -8,30 +8,30 @@
 
 ### 1. Speech Synthesis
 <br>
-<table width="100%" cellspacing="5" cellpadding="2">
+<table style="width: 100%">
   <thead>
     <tr>
-      <th style="width: 10%">clean</th>
-      <th style="width: 10%">clean(Mel + PWG)</th>
-      <th style="width: 10%">noisy</th>
-      <th style="width: 10%">enhancement-based</th>
-      <th style="width: 10%">DenoiSpeech</th>
-      <th style="width: 10%">proposed</th>
+      <th style="width: 16%">clean</th>
+      <th style="width: 16%">clean(Mel + PWG)</th>
+      <th style="width: 16%">noisy</th>
+      <th style="width: 16%">enhancement-based</th>
+      <th style="width: 16%">DenoiSpeech</th>
+      <th style="width: 16%">proposed</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><audio controls="" preload="auto">
+      <td style="width: 16%"><audio controls="" preload="auto">
             <source src="wavs/VCTK/clean/p253_188.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td style="width: 16%"><audio controls="" preload="auto">
             <source src="wavs/VCTK/clean (mel+pwg)/p253_188.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td style="width: 16%"><audio controls="" preload="auto">
             <source src="wavs/VCTK/noisy/p253_188.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td style="width: 16%"><audio controls="" preload="auto">
             <source src="wavs/VCTK/enhancement/p253_188.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td style="width: 16%"><audio controls="" preload="auto">
             <source src="wavs/VCTK/denoispeech/p253_188.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td style="width: 16%"><audio controls="" preload="auto">
             <source src="wavs/VCTK/proposed/p253_188.wav"></audio></td>
     </tr>
 

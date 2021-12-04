@@ -486,11 +486,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><audio style="width: 101px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0089_12G.wav"></audio></td>
-      <td><audio style="width: 101px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0089_12B.wav"></audio></td>
-      <td><audio style="width: 101px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0089_12D.wav"></audio></td>
     </tr>
 
@@ -501,11 +501,11 @@
     </tr>
 
     <tr>
-      <td><audio style="width: 101px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0157_15G.wav"></audio></td>
-      <td><audio style="width: 101px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0157_15B.wav"></audio></td>
-      <td><audio style="width: 101px;" controls="" preload="auto">
+      <td><audio style="width: 200px;" controls="" preload="auto">
             <source src="wavs/noise/2-6_0157_15D.wav"></audio></td>
     </tr>
 

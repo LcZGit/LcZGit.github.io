@@ -173,6 +173,8 @@
   </tbody>
 </table>
 </div>
+.table-wrap{width: 70em;max-width: 100%;}
+.table-wrap table{width:100%;}
 
 <br>
 
@@ -520,6 +522,3 @@
 </table>
 
 <br>
-
-.table-wrap{width: 70em;max-width: 100%;}
-.table-wrap table{width:100%;}
